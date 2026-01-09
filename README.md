@@ -1,4 +1,4 @@
-Executive Summary
+__Executive Summary__
 
 This project analyzes growth, retention, and product-category dynamics for Olist, a Brazilian e-commerce marketplace, using PostgreSQL for data modeling and analysis and Tableau Public for executive storytelling.
 
@@ -6,7 +6,7 @@ The objective was to move beyond surface-level reporting and answer business-cri
 
 Database used: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
-Key Findings
+__Key Findings__
 
 1. Growth is acquisition-led, not value-led
 Revenue growth is primarily driven by increasing order volume rather than higher spend per order. Average Order Value (AOV) remains relatively flat over time, indicating limited effectiveness of upsell or pricing strategies.
@@ -23,13 +23,7 @@ Repeat purchase behavior varies significantly across product categories. Certain
 5. Revenue is highly concentrated across categories
 A Pareto analysis shows that a small number of product categories account for the majority of total revenue. Many of these high-revenue categories, however, exhibit low repeat behavior, creating long-term revenue risk.
 
-Business Implications
-
-The current growth model is fragile, as it depends heavily on new customer acquisition.
-
-Retention investments should be selective and category-aware, rather than uniformly applied.
-
-Business Implications
+__Business Implications__
 
 The current growth model is fragile, as it depends heavily on new customer acquisition.
 
@@ -39,7 +33,7 @@ High-revenue categories should be optimized for conversion and cross-sell, while
 
 Shortening the time to second purchase represents one of the highest-impact levers for sustainable growth.
 
-Deliverables
+__Deliverables__
 
 Executive Growth & Retention Dashboard
 KPIs, revenue and order trends, and repeat purchase timing
@@ -50,7 +44,7 @@ Repeat share by category, repeat order volume, and revenue concentration (Pareto
 SQL Analytics Layer
 Star-schema-inspired modeling, CTEs, and window functions to produce Tableau-ready outputs
 
-Tools & Skills Demonstrated
+__Tools & Skills Demonstrated__
 
 PostgreSQL (data modeling, CTEs, window functions)
 
@@ -62,7 +56,7 @@ Retention and growth analysis
 
 Category-level decision-making
 
-Outcome
+__Outcome__
 
 This project demonstrates how thoughtful data modeling and analytics can translate raw transactional data into actionable business strategy, balancing short-term revenue optimization with long-term customer value and resilience.
 
