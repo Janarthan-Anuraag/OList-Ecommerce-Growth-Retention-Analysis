@@ -5,6 +5,7 @@ This project analyzes growth, retention, and product-category dynamics for Olist
 The objective was to move beyond surface-level reporting and answer business-critical questions around how revenue is generated, how dependent the business is on new customers, and where long-term growth opportunities exist.
 
 Database used: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+Tableau: https://public.tableau.com/app/profile/janarthan.anuraag/viz/OlistE-CommerceGrowthRetentionAnalysis/ExecutiveGrowthRetentionOverview
 
 __Key Findings__
 
